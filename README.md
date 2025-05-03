@@ -1,5 +1,5 @@
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://avatars.githubusercontent.com/u/171897098?s=400&u=e78967e3faa1403fd1acfdec4983047b7aaddd9c&v=4" width="100">Hello! I'm Arisa👋😊
+## <img src="https://avatars.githubusercontent.com/u/171897098?s=400&u=e78967e3faa1403fd1acfdec4983047b7aaddd9c&v=4" width="30">Hello! I'm Arisa👋😊
 
 ###  an aspiring web developer
 
